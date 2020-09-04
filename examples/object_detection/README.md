@@ -24,12 +24,6 @@ To install the AlectioSDK from within the current directory (`./examples/object_
 pip install ../../.
 ```
 
-Make sure to also set the environment variables so that you replace the value in set_env.sh with your API key. You can also directly assign the API key to the environment variable named ALECTIO_API_KEY. 
-
-```
-export ALECTIO_API_KEY=<your downloaded api key>
-```
-
 ### 2. Install Requirements
 
 Install the requirements via:
