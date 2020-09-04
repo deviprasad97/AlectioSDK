@@ -128,7 +128,7 @@ python3 -m venv env
 source env/bin/activate
 ```
 ### 2. Install AlectioSDK/requirements
-Follow the below steps to install ALectioSDK
+Follow the below steps to install AlectioSDK
 
 ```
 pip install .
